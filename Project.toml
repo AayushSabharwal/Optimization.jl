@@ -41,7 +41,7 @@ OptimizationTrackerExt = "Tracker"
 OptimizationZygoteExt = "Zygote"
 
 [compat]
-ADTypes = "0.2.5"
+ADTypes = "0.2.5, 1"
 ArrayInterface = "7.6"
 ConsoleProgressMonitor = "0.1.1"
 DocStringExtensions = "0.9"
